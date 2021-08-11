@@ -9,6 +9,7 @@ Data Mining Data Analysis **linear trend:
 ![Clean Data](https://github.com/lilipach/Data-Mining-Final-Project/blob/master/project_screenshot_data_mining.png)
 
 accuracy results for data sets:
+
 ![Data Set 1](https://github.com/lilipach/Data-Mining-Final-Project/blob/master/project_screenshot_data_mining_2.png)
 
 ![Data Set 2](https://github.com/lilipach/Data-Mining-Final-Project/blob/master/project_screenshot_data_mining_3.png)
