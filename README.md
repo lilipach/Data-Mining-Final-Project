@@ -5,7 +5,7 @@ to prep data, analize and make predictions.
 
 # project results
 
-Data Mining Data Analysis **linear trend display:
+Data Mining Data Analysis *linear trend display:
 
 ![Clean Data](https://github.com/lilipach/Data-Mining-Final-Project/blob/master/project_screenshot_data_mining.png)
 
