@@ -1,7 +1,7 @@
 # Data-Mining-Final-Project
 
 This project works through the basics of data mining a working through raw data for analysis. This particular project utilizes python's sklearn and pandas 
-to prep data, analize and make predictions. 
+to prep data, analyze and make predictions. 
 
 # project results
 
